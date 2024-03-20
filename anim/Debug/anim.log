@@ -1,0 +1,4 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  SpringSim.cpp
+C:\Users\Bette\CSC473\A2\anim\SpringSim.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  anim.vcxproj -> C:\Users\Bette\CSC473\A2\Build\anim.exe
